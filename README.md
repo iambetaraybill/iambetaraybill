@@ -1,18 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hey+there!+I'm+Betaray+Bill+🔥" alt="Waving Text" />
-</p>
-
-<h1 align="center">I am Betaray Bill</h1>
+<h1 align="center">I am Arpan</h1>
 <p align="center">🚀 Software Engineer | Full‑Stack Enthusiast | Lifelong Learner</p>
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Frontend:** JavaScript • React • Next.js • Vue • Tailwind CSS  
+- **Frontend:** JavaScript • Angular • Tailwind CSS  
 - **Backend:** Node.js • Express • NestJS • MongoDB • PostgreSQL  
 - **Tools:** Docker • GitHub Actions • Webpack • Vite • AWS  
-- **Languages:** TypeScript • Python • Go
+- **Languages:** TypeScript 
 
 ---
 
@@ -53,7 +49,3 @@
 > **“Stay hungry, stay foolish.”** – Steve Jobs
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer&text=Let%E2%80%99s+connect+&fontSize=30" />
-</div>
