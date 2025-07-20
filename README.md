@@ -1,8 +1,9 @@
 ---
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=F8F8F2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpan+Sarkar!;Angular+Developer+%7C+FrontEnd+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpan+Sarkar!;Angular+Developer+%7C+FrontEnd+Enthusiast;" alt="Typing SVG" />
 </p>
+
 <!-- Social Stats -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/iambetaraybill?label=Follow&style=social" alt="GitHub Followers" />
