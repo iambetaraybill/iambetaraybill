@@ -36,7 +36,7 @@
 </div>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iambetaraybill&show_icons=true&rank_icon=github&theme=gruvbox&bg_color=30,e96443,904e95" alt="GitHub Stats" />
 </p>
@@ -45,13 +45,13 @@
 </p>
 
 <h2 align="center">🌐 Let's Connect</h2>
-<p align="center"
+
+<p align="center">
   <a href="https://linkedin.com/in/arpan-sarkar-5b4ab6185" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40px" />
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/arpan98sarkar" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40px" />
   </a>
 </p>
 
