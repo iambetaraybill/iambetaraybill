@@ -1,51 +1,64 @@
-<h1 align="center">I am Arpan</h1>
-<p align="center">🚀 Software Engineer | Full‑Stack Enthusiast | Lifelong Learner</p>
-
 ---
-
-## 🔧 Tech Stack
-
-- **Frontend:** JavaScript • Angular • Tailwind CSS  
-- **Backend:** Node.js • Express • NestJS • MongoDB • PostgreSQL  
-- **Tools:** Docker • GitHub Actions • Webpack • Vite • AWS  
-- **Languages:** TypeScript 
-
----
-
-## 💼 Highlights
-
-- 💡 Built and scaled **X apps** for ⚡ startups and enterprises  
-- 🌐 Frequent contributor to **open-source projects**  
-- 📦 Packaged **Re‑usable Components & CLI tools**  
-- 📚 Shared over **100+ blog posts & tutorials** on dev topics
-
----
-
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambetaraybill&show_icons=true&theme=radical)]  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambetaraybill&layout=compact&theme=radical)]
-
----
-
-## 🔭 What I’m Working On
-
-- 🛠 Building **`awesome-toolbox`**, a developer-first utility library  
-- 🧠 Learning **Rust** and exploring systems-level programming  
-- 📖 Writing a blog series: *“Modern Web Architecture”*
-
----
-
-## 💬 Get In Touch
-
+<!-- Banner -->
 <p align="center">
-  <a href="https://twitter.com/your_handle" target="_blank">🐦 Twitter</a> &nbsp; | &nbsp;
-  <a href="https://linkedin.com/in/your_profile" target="_blank">💼 LinkedIn</a> &nbsp; | &nbsp;
-  <a href="https://yourblog.com" target="_blank">📝 Blog</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=F8F8F2&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Arpan+Sarkar!;Angular+Developer+%7C+FrontEnd+Enthusiast;" alt="Typing SVG" />
+</p>
+<!-- Social Stats -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iambetaraybill?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=iambetaraybill&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,tailwind,nodejs,dotnet,mongodb,docker,aws,vite,html,css" alt="Tech Icons" />
+</p>
+<p align="center">
+  👨‍💻 <strong>Frontend:</strong> Angular • JavaScript • Tailwind CSS • HTML • CSS  
+  <br/>
+  🔧 <strong>Backend:</strong> Node.js • .NET Core • MongoDB • SQL Server  
+  <br/>
+  🧰 <strong>Tools & DevOps:</strong> Docker • GitHub Actions • Azure CI/CD • Vite • JIRA  
+  <br/>
+  🧠 <strong>Testing & Architecture:</strong> Jasmine • Karma • AG Grid • RxJS • TDD  
+  <br/>
+  🗣️ <strong>Languages:</strong> TypeScript • JavaScript • SQL
+</p>
+
+<h2 align="center">🏆 Career Highlights</h2>
+<div align="center">
+  🧩 Developed and maintained enterprise-grade apps for <strong>Banking, Telecom, and Insurance</strong> clients across Accenture, TCS, and Cognizant<br/>
+  📦 Created <strong>reusable Angular components, CLI tools</strong>, and custom charting features (Chart.js, PrimeNG)<br/>
+  🧪 Practiced <strong>Test-Driven Development (TDD)</strong> using Jasmine, Karma, and followed <strong>Extreme Programming</strong> practices<br/>
+  🌐 <strong>Open-source contributor</strong><br/>
+  ✍️ Passionate about sharing knowledge<br/>
+  🎓 <strong>Certified:</strong> Microsoft Azure Fundamentals · AWS Cloud Practitioner<br/>
+</div>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iambetaraybill&show_icons=true&rank_icon=github&theme=gruvbox&bg_color=30,e96443,904e95" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambetaraybill&theme=merko&layout=donut" alt="Top Languages" />
+</p>
+
+<h2 align="center">🌐 Let's Connect</h2>
+<p align="center"
+  <a href="https://linkedin.com/in/arpan-sarkar-5b4ab6185" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/arpan98sarkar" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
+  </a>
 </p>
 
 ---
+<p align="center"><em>“You have to fight to reach your dream. You have to sacrifice and work hard for it.”</em><br>– Lionel Messi</p>
 
-> **“Stay hungry, stay foolish.”** – Steve Jobs
 
----
+
+
+
